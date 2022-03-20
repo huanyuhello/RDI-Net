@@ -12,7 +12,7 @@ Dynamic inference networks, aimed at promoting computational efficiency, go alon
 [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_RDI-Net_Relational_Dynamic_Inference_Networks_ICCV_2021_paper.html)
 
 ## Usage
-  python main_dist.py --dataset cifar10 --train_bs 256 --test_bs 100 --epochs 320 --lr 0.1 --model R110_C10 --weight 0.0 --log_path ./outputs/ --note REBUTTAL --resume_path ./outputs/CIFAR10/20200825_090114_R110_C10_cifar10_baseline_LC_STAGE1_NO_C/ckpt.pth
+  python main_dist.py --dataset cifar10 --train_bs 256 --test_bs 100 --epochs 320 --lr 0.1 --model R110_C10 --weight 0.0 --log_path ./outputs/ --note REBUTTAL
 ### Disclamer
 
 We based our code on [Convnet-AIG](https://github.com/andreasveit/convnet-aig), CoDiNet(https://github.com/huanyuhello/codinet), please go show some support!
