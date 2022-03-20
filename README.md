@@ -12,13 +12,14 @@ Dynamic inference networks, aimed at promoting computational efficiency, go alon
 [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_RDI-Net_Relational_Dynamic_Inference_Networks_ICCV_2021_paper.html)
 
 <p align="center">
-<img src="color_1.pdf" alt="regularization" width="100%">
+<img src="./color_1.pdf" alt="regularization" width="100%">
 </p>
 <p align="center">
-Figure: Visualization for the distribution of routing paths within CoDiNet.
+Figure: Prevalent methods.
 </p>
 <p align="center">
-<img src="color_3.pdf" alt="routing path" width="100%">
+<img src="./color_3.pdf" alt="routing path" width="100%">
+Figure: Our proposed relational routers
 </p>
 
 ## Usage
