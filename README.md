@@ -15,4 +15,4 @@ Dynamic inference networks, aimed at promoting computational efficiency, go alon
   python main_dist.py --dataset cifar10 --train_bs 256 --test_bs 100 --epochs 320 --lr 0.1 --model R110_C10 --weight 0.0 --log_path ./outputs/ --note REBUTTAL
 ### Disclamer
 
-We based our code on [Convnet-AIG](https://github.com/andreasveit/convnet-aig), CoDiNet(https://github.com/huanyuhello/codinet), please go show some support!
+We based our code on [Convnet-AIG](https://github.com/andreasveit/convnet-aig), [CoDiNet](https://github.com/huanyuhello/codinet), please go show some support!
