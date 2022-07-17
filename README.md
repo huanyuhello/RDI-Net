@@ -14,6 +14,18 @@ Dynamic inference networks, aimed at promoting computational efficiency, go alon
 
 ## Usage
   python main_dist.py --dataset cifar10 --train_bs 256 --test_bs 100 --epochs 320 --lr 0.1 --model R110_C10 --weight 0.0 --log_path ./outputs/ --note REBUTTAL
-### Disclamer
+  
+## License and Citation
+
+```bibtex
+@inproceedings{wang2021RDINET,
+    author = {Huanyu Wang and Songyuan Li and Shihao Su and Zequn Qin and Xi Li},
+    title = {RDI-Net: Relational Dynamic Inference Networks},
+    booktitle="Proc. IEEE Int. Conf. Comput. Vis.",
+    year = {2021},
+}
+```
+
+## Disclamer
 
 We based our code on [Convnet-AIG](https://github.com/andreasveit/convnet-aig), [CoDiNet](https://github.com/huanyuhello/codinet), please go show some support!
